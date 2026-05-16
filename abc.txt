@@ -1,0 +1,11 @@
+Hugo Linof test File:
+
+Arduino is an open-source electronics platform (microcontroller boards + 
+software) used to build interactive projects that sense and control the
+ physical world. Common uses:
+    • Prototyping electronics and embedded systems
+    • Learning electronics, programming, and physical computing
+    • Controlling lights, motors, sensors, relays, displays, and servos
+    • Home automation (lights, thermostats, security sensors)
+    • Robotics (motor control, sensor fusion, navigation)
+    • Wearables and interactive art installations
