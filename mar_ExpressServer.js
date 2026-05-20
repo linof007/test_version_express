@@ -3,7 +3,7 @@
       const express = require('express');     
           const app = express();
          const path = require('path');
-         const port = 3001;
+         const port = process.env.PORT || 3001;   // Port 3001 oder Port aus Umgebungsvariable
        const {exec} = require('child_process');
            const fs = require('fs');
 
