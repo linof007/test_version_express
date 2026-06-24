@@ -1,5 +1,5 @@
 node_modules/
 .env
-.env.loca
+.env.local
 *.log
 abc2_von_gelesen_aus_abc.txt
