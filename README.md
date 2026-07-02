@@ -12,3 +12,6 @@ NEW on 17-06-2026:
 - Added directories node_modules and publicx
 - Added files marfin.bat, stage1.bat, package.json and package-lock.json
 - Uploaded modified files forExpressServer_mp4.html, index-buttons_espress.html and mar_ExpressServer.js
+
+NEW on 02-07-2026:
+Deleted directory node_modules
