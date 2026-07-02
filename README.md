@@ -14,4 +14,5 @@ NEW on 17-06-2026:
 - Uploaded modified files forExpressServer_mp4.html, index-buttons_espress.html and mar_ExpressServer.js
 
 NEW on 02-07-2026:
-Deleted directory node_modules
+- Deleted directory node_modules
+- Added file .gitignore
